@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://bhtcvfqa24rek"]
+
+[ext_resource type="Texture2D" uid="uid://myruun83ojwg" path="res://Assets/Player/Patron_PLayer.png" id="1_4pbnn"]
+[ext_resource type="Script" path="res://Script/Player.cs" id="2_vdvim"]
+
+[node name="Player" type="Sprite2D"]
+position = Vector2(369, 323)
+scale = Vector2(0.08, 0.08)
+texture = ExtResource("1_4pbnn")
+script = ExtResource("2_vdvim")

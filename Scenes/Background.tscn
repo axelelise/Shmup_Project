@@ -1,13 +1,11 @@
-[gd_scene load_steps=6 format=3 uid="uid://bilt0ibg6rt8w"]
+[gd_scene load_steps=5 format=3 uid="uid://bilt0ibg6rt8w"]
 
-[ext_resource type="Script" path="res://Script/Parallax.cs" id="1_c5gi0"]
 [ext_resource type="Texture2D" uid="uid://q6f0nifxjs2p" path="res://Assets/Background/Background.png" id="1_p07wl"]
 [ext_resource type="Texture2D" uid="uid://b6m0jeebpw1c1" path="res://Assets/Background/MiddleGround.png" id="2_xx6mh"]
 [ext_resource type="Texture2D" uid="uid://1ds587ga53lw" path="res://Assets/Background/Effet.png" id="3_nv0fw"]
 [ext_resource type="Texture2D" uid="uid://cl66grf4fi7rn" path="res://Assets/Background/FrontGround.png" id="4_h8uwj"]
 
 [node name="ParallaxBackground" type="ParallaxBackground"]
-script = ExtResource("1_c5gi0")
 
 [node name="Backgrounds" type="ParallaxLayer" parent="."]
 
@@ -23,6 +21,7 @@ scale = Vector2(2.43, 1)
 texture = ExtResource("1_p07wl")
 
 [node name="HorizonLines" type="ParallaxLayer" parent="."]
+z_index = 1
 
 [node name="HorizonLine" type="Sprite2D" parent="HorizonLines"]
 position = Vector2(345, 395)
@@ -36,6 +35,7 @@ scale = Vector2(1.13885, 1)
 texture = ExtResource("2_xx6mh")
 
 [node name="MiddleGroungs" type="ParallaxLayer" parent="."]
+z_index = 2
 
 [node name="MiddleGroung" type="Sprite2D" parent="MiddleGroungs"]
 position = Vector2(789.875, 250)
@@ -48,6 +48,7 @@ scale = Vector2(0.487607, 0.431436)
 texture = ExtResource("3_nv0fw")
 
 [node name="Foregrounds" type="ParallaxLayer" parent="."]
+z_index = 3
 
 [node name="Foreground" type="Sprite2D" parent="Foregrounds"]
 position = Vector2(611.136, 486.438)

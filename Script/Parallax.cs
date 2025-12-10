@@ -14,13 +14,7 @@ namespace Com.IsartDigital.ProjectName {
         List<ParallaxLayer> layers = new List<ParallaxLayer>();
         List<float> layerSpeeds = new List<float>() { 5, 10, 15, 20 };
 
-        const float SCOLL_SPEED = -15f;
-        const float MAX_SCROLL_SPEED = -100f;
-        const float MIN_SCROLL_SPEED = -10f;
         float currentScrollSpeed = -30f;
-
-        const float MARGIN_X = 150f;
-        const float MARGIN_Y = 50f;
 
         Timer spawnTimer = new Timer();
         float startWaitTime = 2f;

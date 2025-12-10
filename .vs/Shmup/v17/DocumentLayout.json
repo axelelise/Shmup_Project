@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\informatique\\Documents\\Isart\\GDP1\\programmation\\Projet\\Shmup\\Shmup_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4D0424BA-F32F-4732-AE91-EEBF184649BF}|Shmup.csproj|c:\\users\\informatique\\documents\\isart\\gdp1\\programmation\\projet\\shmup\\shmup_project\\script\\parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0424BA-F32F-4732-AE91-EEBF184649BF}|Shmup.csproj|solutionrelative:script\\parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\informatique\\Documents\\Isart\\GDP1\\programmation\\Projet\\Shmup\\Shmup_Project\\Script\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Script\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D0424BA-F32F-4732-AE91-EEBF184649BF}|Shmup.csproj|c:\\users\\informatique\\documents\\isart\\gdp1\\programmation\\projet\\shmup\\shmup_project\\script\\parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D0424BA-F32F-4732-AE91-EEBF184649BF}|Shmup.csproj|solutionrelative:script\\parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\informatique\\Documents\\Isart\\GDP1\\programmation\\Projet\\Shmup\\Shmup_Project\\Script\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Script\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,27 +49,64 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\informatique\\Documents\\Isart\\GDP1\\programmation\\Projet\\Shmup\\Shmup_Project\\Script\\Main.cs",
-              "RelativeDocumentMoniker": "Script\\Main.cs",
-              "ToolTip": "C:\\Users\\informatique\\Documents\\Isart\\GDP1\\programmation\\Projet\\Shmup\\Shmup_Project\\Script\\Main.cs",
-              "RelativeToolTip": "Script\\Main.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\informatique\\Documents\\Isart\\GDP1\\programmation\\Projet\\Shmup\\Shmup_Project\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Script\\Player.cs",
+              "ToolTip": "C:\\Users\\informatique\\Documents\\Isart\\GDP1\\programmation\\Projet\\Shmup\\Shmup_Project\\Script\\Player.cs",
+              "RelativeToolTip": "Script\\Player.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T14:56:00.835Z",
+              "WhenOpened": "2025-12-10T14:19:51.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\informatique\\Documents\\Isart\\GDP1\\programmation\\Projet\\Shmup\\Shmup_Project\\Script\\Main.cs",
+              "RelativeDocumentMoniker": "Script\\Main.cs",
+              "ToolTip": "C:\\Users\\informatique\\Documents\\Isart\\GDP1\\programmation\\Projet\\Shmup\\Shmup_Project\\Script\\Main.cs",
+              "RelativeToolTip": "Script\\Main.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:56:03.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Parallax.cs",
               "DocumentMoniker": "C:\\Users\\informatique\\Documents\\Isart\\GDP1\\programmation\\Projet\\Shmup\\Shmup_Project\\Script\\Parallax.cs",
               "RelativeDocumentMoniker": "Script\\Parallax.cs",
               "ToolTip": "C:\\Users\\informatique\\Documents\\Isart\\GDP1\\programmation\\Projet\\Shmup\\Shmup_Project\\Script\\Parallax.cs",
               "RelativeToolTip": "Script\\Parallax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T14:40:21.071Z",
               "EditorCaption": ""
@@ -79,6 +120,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             }
           ]
         }
